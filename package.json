@@ -1,0 +1,29 @@
+{
+  "name": "weather-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johnmutuma5/Weather-App.git"
+  },
+  "keywords": [
+    "Weather"
+  ],
+  "author": "John Mutuma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/johnmutuma5/Weather-App/issues"
+  },
+  "homepage": "https://github.com/johnmutuma5/Weather-App#readme",
+  "devDependencies": {
+    "@types/node": "^14.0.6",
+    "jasmine": "^3.5.0",
+    "nyc": "^15.1.0",
+    "ts-node": "^8.10.2",
+    "typescript": "^3.9.3"
+  }
+}
