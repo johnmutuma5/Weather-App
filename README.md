@@ -23,9 +23,9 @@ To get details for multiple cities, you can start the application with:
 Example output:
 
 ```json
-{ name: 'New York', temperature: '18.57 °C', currentTime: '13:6:28'  }
-{ name: 'Nairobi', temperature: '21.56 °C', currentTime: '20:6:28'  }
-{ name: 'London', temperature: '23.77 °C', currentTime: '18:6:28'  }
+{ "name": "New York", "temperature": "18.57 °C", "currentTime": "13:6:28"  }
+{ "name": "Nairobi", "temperature": "21.56 °C", "currentTime": "20:6:28"  }
+{ "name": "London", "temperature": "23.77 °C", "currentTime": "18:6:28"  }
 
 ```
 
